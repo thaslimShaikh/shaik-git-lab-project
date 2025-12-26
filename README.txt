@@ -1,1 +1,1 @@
-Version control improves team coordination.
+Version control improves both team coordination and individual productivity.
