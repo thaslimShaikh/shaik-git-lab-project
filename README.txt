@@ -1,1 +1,1 @@
-Main branch maintains very stable project documentation.
+Main branch maintains stable project documentation.
