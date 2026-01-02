@@ -1,1 +1,1 @@
-System response time should be optimized.
+System response time should be optimized and clearly documented.
