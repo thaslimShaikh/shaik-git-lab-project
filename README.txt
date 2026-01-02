@@ -1,1 +1,1 @@
-This line is work in progress and not ready yet.
+This repository demonstrates collaborative GitHub workflows.
