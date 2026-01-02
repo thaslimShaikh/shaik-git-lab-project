@@ -1,3 +1,1 @@
-Git helps me track how my project evolves step by step.
-This is my first version-controlled file.
-Each commit is like a checkpoint in development.
+This line was added for revert demonstration.
